@@ -4,6 +4,10 @@
 # It also has a fan that turns on if it gets too hot.
 # A sensor monitors and logs temperature to a csv file so that I can fine tune things.
 
+# Proposed Changes
+# Upload CSV to Firebase to allow for global triggers
+# - Steve
+
 # REQUIREMENTS: sudo pip3 install RPi.bme280
 
 
